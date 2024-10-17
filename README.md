@@ -43,4 +43,4 @@ O programa processará todas essas tarefas na ordem em que foram adicionadas, ga
 1. Clone este repositório na sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/festa-facil.git
+   git clone https://github.com/GabrielSronger/festa-facil.git
